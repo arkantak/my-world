@@ -2,6 +2,6 @@
 Origin of the world. 0,0,0,0
 
 
-yolo peeps
+yolo peeps.
 
-learning to code ova here, blazing a trail ova there. get coding now
+learning to code ova here, blazing a trail ova there. get coding now.
